@@ -1,5 +1,4 @@
 ![banner](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPBLognE5aV2G3lzhVwoNletkoEIQZSrpgOp_aXp4pBD17P5-uAm30FhjoHWM9Psx6vmY&usqp=CAU)
-Hi, Kingkin Fajar's Here 👋
 
 - 👋 Hi, I’m @zerdhanRWS
 - 👀 I’m interested in programming
