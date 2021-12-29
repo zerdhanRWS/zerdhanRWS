@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zerdhanRWS
+- 👋 Hi, I’m @zerdhanRWS😒
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on alphabet
