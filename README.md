@@ -1,4 +1,4 @@
-![banner](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPBLognE5aV2G3lzhVwoNletkoEIQZSrpgOp_aXp4pBD17P5-uAm30FhjoHWM9Psx6vmY&usqp=CAU)
+![banner](https://camo.githubusercontent.com/cb8b6a058daa0ff162e26fb6126927d0c2a5547422684fa34b251f7294f68c2b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d736179796964617a697a6969267468656d653d6e6f72642673686f775f69636f6e733d74727565)
 
 - 👋 Hi, I’m @zerdhanRWS
 - 👀 I’m interested in programming
